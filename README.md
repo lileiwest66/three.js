@@ -21,7 +21,7 @@ The aim of the project is to create an easy to use, lightweight, 3D library with
 [Gitter](https://gitter.im/mrdoob/three.js) &mdash;
 [Slack](https://threejs-slack.herokuapp.com/)
 
-### Usage ###
+### Usage ###  [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6JWCDN6V39SQQ&source=url)
 
 Download the [minified library](http://threejs.org/build/three.min.js) and include it in your HTML, or install and import it as a [module](http://threejs.org/docs/#manual/introduction/Import-via-modules),
 Alternatively see [how to build the library yourself](https://github.com/mrdoob/three.js/wiki/Build-instructions).
