@@ -34,7 +34,7 @@ This code creates a scene, a camera, and a geometric cube, and it adds the cube 
 
 ```javascript
 var camera, scene, renderer;
-var geometry, material, mesh;
+var geometry, material, mesh; 
 
 init();
 animate();
